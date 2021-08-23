@@ -1,0 +1,10 @@
+Model name 2021_08_08_N01
+learning rate : 0.001
+batch size : 64
+Weighted loss : 1 0.001
+LRScheduler : False
+LRScheduler (gamma, step) : 1 10000
+L1 smooth : False
+Rescaled image : 128, 150
+Cropped image : 96, 128
+Border size : 10

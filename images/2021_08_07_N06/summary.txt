@@ -1,0 +1,5 @@
+learning rate : 0.001
+batch size : 64
+Weighted loss : 1 0.001
+LRScheduler (gamma, step) : 0 0
+L1 smooth

@@ -1,0 +1,19 @@
+Model name : 2021_08_08_N09
+Number of epochs : 400
+learning rate : 0.001
+batch size : 32
+Weighted loss : 1 0.001
+LRScheduler : True
+Loss : l1
+LRScheduler (gamma, step) : 0.1 250
+L1 smooth : True
+Rescaled image : 284, 392
+Cropped image : 256, 352
+Border size : 10
+MixUp : False
+MixUp ratio : 0.4
+Blend : False
+Blend ratio : 0.2
+Rotation : True
+Rotation angle : 10
+Rotation ratio : 0.6

@@ -1,0 +1,21 @@
+------------------------------------------------
+################ Training results ##################
+Photometric loss 0.1231, Smooth
+loss 0.0636, Overall loss 0.1231
+Mean absolute error is 0.1231 with standard deviation of 0.1072
+Mean RMSE error is 0.3263 with standard deviation of 0.1305
+------------------------------------------------
+------------------------------------------------
+################ Validation results ##################
+Photometric loss 0.4389, Smooth
+loss 0.0604, Overall loss 0.4389
+Mean absolute error is 0.4389 with standard deviation of 0.3115
+Mean RMSE error is 0.6578 with standard deviation of 0.3218
+------------------------------------------------
+------------------------------------------------
+################ Test results ##################
+Photometric loss 0.4423, Smooth
+loss 0.0603, Overall loss 0.4424
+Mean absolute error is 0.4423 with standard deviation of 0.3160
+Mean RMSE error is 0.6752 with standard deviation of 0.3480
+------------------------------------------------
