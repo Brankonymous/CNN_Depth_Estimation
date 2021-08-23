@@ -26,6 +26,7 @@ test_sample.py
 
 ## Important notes!
 
+<br />
 - This project was part of Petnica's Summer Institute for Machine Learning, done by [Mihailo Grbic](https://github.com/m-grbic) and me.
 <br />
 - This project is cloned from [Mihailo's repository](https://github.com/m-grbic/psiml7)
