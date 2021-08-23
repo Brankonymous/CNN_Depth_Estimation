@@ -7,10 +7,6 @@ Our model is based on similar work [Towards Good Practice for CNN-Based Monocula
 ## Presentation
 [Link to pdf presentation](https://github.com/m-grbic/psiml7/blob/main/Monocular%20Depth%20Estimation.pdf)
 
-## Model
-![DispNet arhitecture](https://i.ibb.co/DRrzWXK/Annotation-2021-08-07-191841.png)
-Model was implemented using PyTorch (VGG-16 as encoder, DispNet as decoder).
-
 ## Important files
 Changing hyperparameters: <br />
 hyperparameters.py
